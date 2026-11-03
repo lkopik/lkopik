@@ -20,6 +20,7 @@
 
 | Проект | Что это | На чём |
 |---|---|---|
+| [csi-radar](https://github.com/lkopik/csi-radar) | Обнаружение людей по Wi-Fi CSI на двух ESP32-S3: прошивки на ESP-IDF и программа-радар на PyQt6 | Python, C |
 | [NERV-OS](https://github.com/lkopik/NERV-OS) | Конфиги и скрипты, которые превращают дистрибутив Linux в NERV OS | Shell, Lua, CSS |
 | [Rpi_pager](https://github.com/lkopik/Rpi_pager) | Пейджер: сообщения из Telegram-бота появляются на e-Paper дисплее Raspberry Pi Zero W | Python, Shell |
 | [CyberFestTobol](https://github.com/lkopik/MEGA-PROGECT) | Командный проект CyberFestTobol | Python, HTML, Shell |
