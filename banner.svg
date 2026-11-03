@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="lkopik: Linux, Bash, Docker. Цель: стажировка DevOps в 2027 году">
+  <style>
+    text { font-family: ui-monospace, "JetBrains Mono", "Cascadia Mono", Consolas, "DejaVu Sans Mono", monospace; }
+    .prompt { fill: #f0a030; font-size: 24px; }
+    .cmd { fill: #e8ebef; font-size: 24px; }
+    .out { fill: #9aa7b6; font-size: 24px; }
+    .name { fill: #f0a030; font-size: 60px; font-weight: 700; }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect width="1200" height="300" rx="14" fill="#14181f"/>
+  <rect x="1" y="1" width="1198" height="298" rx="13" fill="none" stroke="#2b333f" stroke-width="2"/>
+  <circle cx="36" cy="32" r="7" fill="#e5604d"/>
+  <circle cx="60" cy="32" r="7" fill="#e6b13f"/>
+  <circle cx="84" cy="32" r="7" fill="#5fb96f"/>
+  <text x="40" y="118" class="name">lkopik</text>
+  <text x="40" y="172"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text>
+  <text x="40" y="204" class="out">Linux · Bash · Docker · Python · Go</text>
+  <text x="40" y="244"><tspan class="prompt">$ </tspan><tspan class="cmd">echo $GOAL</tspan></text>
+  <text x="40" y="276" class="out">стажировка DevOps, 2027</text>
+  <rect class="cursor" x="388" y="257" width="13" height="24" fill="#f0a030"/>
+</svg>
